@@ -1,6 +1,6 @@
 ---
 title: R Markdown Homework Assignment
-author: "Your name (your Neptun ID)"
+author: "Ali Ahsan(Q4RUJI)"
 output: github_document
 lang: en
 ---
